@@ -66,7 +66,21 @@
           }]
         };
         pbjs.setPriceGranularity(customGranularity);
-        // TODO: tell the wrapper about your specific inventory on this page
+        // tell the wrapper about your specific inventory on this page
+        var adUnits = [{
+          code: 'div-gpt-ad-1486479040361-0',
+          sizes: [[300, 250]],
+          bids: [{
+            bidder: 'audienceNetwork',
+            params: {
+              placementId: '398694800474443_398695547141035',
+              tagVersion: '5.5.web',
+              fullwidth: true,  // or native, 300x250, 320x50
+            }
+          }]
+        },];
+        pbjs.addAdUnits(adUnits);
+
         // kick off the auction
         pbjs.requestBids({
           bidsBackHandler: function (bidResponses) {

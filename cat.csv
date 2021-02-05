@@ -1,8 +1,8 @@
 id,title,description,image_link,price,availability,condition,link,brand
-0,Bulbasaur,Just a simple bulbasaur,https://tkhomas.github.io/bulbasaur.jpeg,13.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
-1,Butterfree,Just a simple butterfree,https://tkhomas.github.io/butterfree.jpeg,15.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
+0,Bulbasaur,Just a simple bulbasaur,https://tkhomas.github.io/bulbasaur.jpeg,13.99,in stock,new,https://tkhomas.github.io,Fresh Pokemons LTD
+1,Butterfree,Just a simple butterfree,https://tkhomas.github.io/butterfree.jpeg,15.99,in stock,new,https://tkhomas.github.io,Fresh Pokemons LTD
 2,Charmander,Just a simple charmander,https://tkhomas.github.io/charmander.jpeg,13.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
-3,Psyduck,Just a simple psyduck,https://tkhomas.github.io/psyduck.jpeg,159.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
+3,Psyduck,Just a simple psyduck,https://tkhomas.github.io/psyduck.jpeg,159.99,preorder,new,https://tkhomas.github.io,Elite Pokemons LTD
 4,Sandshrew,Just a simple sandshrew,https://tkhomas.github.io/sandshrew.jpeg,15.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
-5,Slowpoke,Just a simple slowpoke,https://tkhomas.github.io/slowpoke.jpeg,159.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
+5,Slowpoke,Just a simple slowpoke,https://tkhomas.github.io/slowpoke.jpeg,159.99,preorder,new,https://tkhomas.github.io,Elite Pokemons LTD
 6,Squirtle,Just a simple squirtle,https://tkhomas.github.io/squirttle.jpeg,13.99,preorder,new,https://tkhomas.github.io,Fresh Pokemons LTD
